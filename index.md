@@ -45,9 +45,9 @@ def tell_a_joke():
 tell_a_joke()
 ```
 ## Cat Pics
-![Mia the Cat](miapic.jpg)
-![Star the Cat](starpic.jpg)
-![The Cats Together](togetherpic.jpg)
+![Mia the Cat](catpics/miapic.jpg)
+![Star the Cat](catpics/starpic.jpg)
+![The Cats Together](catpics/togetherpic.jpg)
 ## Table of Contents
 - [Michael Pena's CSE110 Lab1](#michael-penas-cse110-lab1)
   - [Who Am I?](#who-am-i)
